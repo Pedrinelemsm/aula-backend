@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "nome": "melancia nanica",
+      "preco": 37,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "laranja",
+      "preco": 20
+    },
+    {
+      "nome": "dudu apelao",
+      "preco": 37,
+      "id": "3"
+    }
+  ]
+}
